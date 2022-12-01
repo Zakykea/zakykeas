@@ -37,23 +37,23 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.ultahown = 'Maret 23 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082217590187'
+global.pdana = '083114673612'
 global.povo = '-'
-global.pgopay = '082217590187'
-global.ppulsa = '082217590187'
-global.ppulsa2 = '082217590187'
+global.pgopay = '083114673612'
+global.ppulsa = '083114673612'
+global.ppulsa2 = '083114673612'
 global.psaweria = 'https://saweria.co/KazeDevID'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nomorbot = '6281361003807'
+global.nomorown = '6283114673612'
+global.namebot = 'ZakyBot'
+global.nameown = 'butuh ayang'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282217590187', 'Lord Kaze', 'true']
+  ['6283114673612',  'butuh ayang', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -95,8 +95,8 @@ global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 global.nameowner = `${global.nameown}`
 global.umurowner = '18'
 global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.nomorowner = 'wa.me/6283114673612'
+global.pacarowner = 'kepo ya><'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
